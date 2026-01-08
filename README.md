@@ -32,7 +32,8 @@ Only sample images are included in this repository.
 ## Trained Model & Implementation
 The core implementation of the burn detection system is contained in the file:
 
-**`GUI_Master_burn.py`**
+[`GUI_Master_burn.py`](GUI_Master_burn.py)
+
 
 This file includes:
 - Image preprocessing logic
