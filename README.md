@@ -54,4 +54,4 @@ The accuracy graph shows how effectively the model learned patterns from the tra
 The loss graph represents the reduction in error during the training process.
 ![Loss Graph](images/loss.png)
 
-## Project Structure
+
